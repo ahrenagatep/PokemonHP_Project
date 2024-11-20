@@ -8,6 +8,13 @@ A Java-based application that simulates Pokémon battles from the game Pokémon.
 * Execute risky attacks for a chance of higher damage output   
 * Perform bulk-up moves to increase attack and defense stats   
 
+# Setup / Installation:
+Clone the repository in your terminal with the command:
+```
+git clone https://github.com/ahrenagatep/PokemonHP_Project.git
+```
+Start the game by running Game.java
+
 # How to play:
 2 players are required, each player picks a Pokémon.  
 After both players have picked their Pokémon, they will take turns choosing between four different actions to perform.
