@@ -1,6 +1,8 @@
 # Pokémon Battle Simulator
 A Java-based application that simulates Pokémon battles from the game Pokémon. It allows users to choose between four Pokémon (Charizard, Snorlax, Wooper, Eevee) each with different stats of health, defense, attack, and special attack.
 
+![Gameplay](https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/gameplay.png)
+
 # Features:
 * Choose among four different Pokémon   
 * Engage in turn-based battles between Pokémon   
