@@ -1,7 +1,9 @@
 # Pokémon Battle Simulator
 A Java-based application that simulates Pokémon battles from the game Pokémon. It allows users to choose between four Pokémon (Charizard, Snorlax, Wooper, Eevee) each with different stats of health, defense, attack, and special attack.
 
-![Title](https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/titleScreenshot.png)
+<p align="center">
+  <img src="https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/titleScreenshot.png" style="width: 60%; height: auto;" />
+</p>
 
 # Features:
 * Choose among four different Pokémon   
@@ -17,15 +19,18 @@ git clone https://github.com/ahrenagatep/PokemonHP_Project.git
 ```
 Start the game by running Game.java
 
-![Gameplay](https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/gameplay.png)
+<p align="center">
+  <img src="https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/gameplay.png" style="width: 60%; height: auto;" />
+</p>
 
 # How to play:
 2 players are required, each player picks a Pokémon.  
 After both players have picked their Pokémon, they will take turns choosing between four different actions to perform.
 The players will continue to take turn until one of the two Pokémon has fainted. Players have the option to rematch, restarting the process.
 
-![Leaderboard](https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/leaderboardScreenshot.png)
-
+<p align="center">
+  <img src="https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/leaderboardScreenshot.png" style="width: 60%; height: auto;" />
+</p>
 # Credits
 * Developed by Ahren Agatep
 * Title/end screen background art made by @AnasAbdin on Twitter (https://linktr.ee/anasabdin)
