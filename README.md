@@ -31,7 +31,9 @@ The players will continue to take turn until one of the two Pokémon has fainted
 <p align="center">
   <img src="https://github.com/ahrenagatep/PokemonHP_Project/blob/main/src/resources/sprites/screenshots/leaderboardScreenshot.png" style="width: 60%; height: auto;" />
 </p>
+
 # Credits
+
 * Developed by Ahren Agatep
 * Title/end screen background art made by @AnasAbdin on Twitter (https://linktr.ee/anasabdin)
 * Battle background art found on Google
